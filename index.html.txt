@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz Día de la Mujer</title>
+    <style>
+        body { text-align: center; font-family: Arial, sans-serif; background-color: #ffe0f0; }
+        h1 { color: #d63384; }
+    </style>
+</head>
+<body>
+    <h1>¡Feliz Día de la Mujer!</h1>
+    <p>Gracias por tu valentía, esfuerzo y amor. ¡Que tengas un día maravilloso!</p>
+</body>
+</html>
